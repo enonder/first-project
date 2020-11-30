@@ -8,7 +8,6 @@ for a in range(len(letters)):
 
 def my_func(x, y):
 
-
     for j in x:
         for i in letters:
             if i == j:
